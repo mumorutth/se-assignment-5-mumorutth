@@ -43,3 +43,6 @@ Answer the following questions based on your understanding of the installation a
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
 
+https://docs.google.com/document/d/1E-ajT9PKcsbhGq8_1Nw1GrQ9Rqg4a86pKsD6geeYyzk?usp=drive_fs
+
+The above link contains a link to my assignment on installing VS Code.
